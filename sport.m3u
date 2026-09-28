@@ -1,33 +1,95 @@
 #EXTM3U
+
 #================ Sports
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png",Golf HD+
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130-avc1_5000000=7-mp4a_96000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",Bein Sports 1
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008-avc1_5500000=19-mp4a_64000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",Bein Sports 2
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002-avc1_5500000=22-mp4a_64000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",Bein Sports 3
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003-avc1_5500000=22-mp4a_64000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",Ball Thai 1
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001-avc1_5500000=28-mp4a_64000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png",Ball Thai 2
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002-avc1_5500000=22-mp4a_64000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png",Ball Thai 3
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003-avc1_5500000=22-mp4a_64000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png",AIS Play Sport 1
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL101/HLS/TL101-avc1_5500000=6-mp4a_64000_tha=5.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png",AIS Play 5
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005-avc1_5500000=21-mp4a_64000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/FUTSAL_512x512pxl_Ch1.png",FUTSAL 1
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL021/HLS/TL021.m3u8
+
 #================ Asian Game
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH1_512x512.png",Asian Game 01
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG001/HLS/AG001-avc1_5000000=7-mp4a_96000_tha=8.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH2_512x512.png",Asian Game 02
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG002/HLS/AG002-avc1_5000000=6-mp4a_96000_tha=8.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH3_512x512.png",Asian Game 03
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG003/HLS/AG003-avc1_5000000=6-mp4a_96000_tha=8.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH4_512x512.png",Asian Game 04
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG004/HLS/AG004-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
 #EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH5_512x512.png",Asian Game 05
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG005/HLS/AG005-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH6_512x512.png",Asian Game 06
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG006/HLS/AG006-avc1_5000000=6-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH7_512x512.png",Asian Game 07
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG007/HLS/AG007-avc1_5000000=6-mp4a_96000_tha=3.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH8_512x512.png",Asian Game 08
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG008/HLS/AG008-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH9_512x512.png",Asian Game 09
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG009/HLS/AG009-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH10_512x512.png",Asian Game 10
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG010/HLS/AG010-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH11_512x512.png",Asian Game 11
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG011/HLS/AG011-avc1_5000000=6-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH12_512x512.png",Asian Game 12
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG012/HLS/AG012-avc1_5000000=6-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH13_512x512.png",Asian Game 13
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG013/HLS/AG013-avc1_5000000=6-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH14_512x512.png",Asian Game 14
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG014/HLS/AG014-avc1_5000000=6-mp4a_96000_tha=5.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH15_512x512.png",Asian Game 15
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG015/HLS/AG015-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH16_512x512.png",Asian Game 16
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG016/HLS/AG016-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH17_512x512.png",Asian Game 17
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG017/HLS/AG017-avc1_5000000=6-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH18_512x512.png",Asian Game 18
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG018/HLS/AG018-avc1_5000000=11-mp4a_96000_tha=2.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH19_512x512.png",Asian Game 19
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG019/HLS/AG019.m3u8
+
+#EXTINF:-1 group-title="DTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///LOGO_AsiangamesCH20_512x512.png",Asian Game 20
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/AG020/HLS/AG020.m3u8
